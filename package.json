@@ -1,13 +1,26 @@
 {
   "name": "reuse-utility",
   "version": "1.0.1",
-  "description": "reusable utility functions",
+  "description": "reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
     "build": "rollup -c"
   },
   "author": "Velu S Gautam",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velusgautam/reuse"
+  },
+  "homepage": "https://github.com/velusgautam/reuse#readme",
+  "keywords": [
+    "memoize",
+    "uniqueId",
+    "debounce",
+    "isEqual",
+    "isEmpty",
+    "minBy"
+  ],
   "devDependencies": {
     "babel-eslint": "^10.0.2",
     "rollup": "^1.16.2",
