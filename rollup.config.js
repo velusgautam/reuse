@@ -6,7 +6,7 @@ export default {
   output: {
     file: "dist/main.js",
     format: "esm",
-    banner: "/* reuse Library version: " + version + " */",
+    banner: "/* reuse-utility Library version: " + version + " */",
     footer: "/* follow me on Github! https://github.com/velusgautam */"
   },
   plugins: [

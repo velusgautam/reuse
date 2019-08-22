@@ -1,5 +1,5 @@
 {
-  "name": "reuse",
+  "name": "reuse-utility",
   "version": "1.0.1",
   "description": "reusable utility functions",
   "main": "dist/main.js",
