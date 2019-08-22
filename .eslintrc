@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "comma-dangle": 0,
+    "no-unused-vars": "error",
+    "no-undef": "error",
+    "no-console": "warn",
+    "no-unexpected-multiline": "warn"
+  }
+}
