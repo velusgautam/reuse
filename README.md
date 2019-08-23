@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/velusgautam/reuse.svg?style=svg)](https://circleci.com/gh/velusgautam/reuse)
+
 # Reuse
 Reusable simple libraries with tree shaking imports
 
