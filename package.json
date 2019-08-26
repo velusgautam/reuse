@@ -1,6 +1,6 @@
 {
   "name": "reuse-utility",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/velusgautam/reuse"
+    "url": "git+https://github.com/velusgautam/reuse.git"
   },
   "homepage": "https://github.com/velusgautam/reuse#readme",
   "keywords": [
@@ -19,11 +19,16 @@
     "debounce",
     "isEqual",
     "isEmpty",
-    "minBy"
+    "minBy",
+    "numberGrouping",
+    "numberFormatting"
   ],
   "devDependencies": {
     "babel-eslint": "^10.0.2",
     "rollup": "^1.16.2",
     "rollup-plugin-terser": "^5.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/velusgautam/reuse/issues"
   }
 }
