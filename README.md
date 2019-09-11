@@ -12,7 +12,8 @@ Reusable simple libraries with tree shaking imports
 >4. memoize
 >5. minBy
 >6. uniqueId
->
+>7. numberGrouping
+>8. numberFormatting
 
  - :sunglasses: These modules are forked from lodash and just 
  - It also experiments JSPM and rollup build capabilities

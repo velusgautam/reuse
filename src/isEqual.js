@@ -1,4 +1,6 @@
-  /** Used to compose bitmasks for value comparisons. */
+import isLength from "./.internals/isLength";
+
+/** Used to compose bitmasks for value comparisons. */
 const COMPARE_PARTIAL_FLAG = 1;
 
 /** `Object#toString` result references. */
@@ -168,15 +170,6 @@ function equalArrays(array, other, bitmask, customizer, equalFunc, stack) {
   stack["delete"](array);
   stack["delete"](other);
   return result;
-}
-
-function isLength(value) {
-  return (
-    typeof value == "number" &&
-    value > -1 &&
-    value % 1 == 0 &&
-    value <= MAX_SAFE_INTEGER
-  );
 }
 
 function isArrayLike(value) {

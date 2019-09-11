@@ -4,7 +4,8 @@
   "description": "reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "local": "babel -d test/ test.js dist/main.js"
   },
   "author": "Velu S Gautam",
   "license": "ISC",
@@ -24,7 +25,9 @@
     "numberFormatting"
   ],
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.2",
+    "babel-preset-es2015": "^6.24.1",
     "rollup": "^1.16.2",
     "rollup-plugin-terser": "^5.1.1"
   },
