@@ -1,6 +1,6 @@
 {
   "name": "@velusgautam/reuse",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
@@ -11,7 +11,6 @@
   "license": "ISC",
   "repository": "git://github.com/velusgautam/reuse.git",
   "homepage": "https://github.com/velusgautam/reuse#readme",
-
   "keywords": [
     "memoize",
     "uniqueId",
