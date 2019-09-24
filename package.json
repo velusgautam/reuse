@@ -11,9 +11,7 @@
   "license": "ISC",
   "repository": "git://github.com/velusgautam/reuse.git",
   "homepage": "https://github.com/velusgautam/reuse#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+
   "keywords": [
     "memoize",
     "uniqueId",
