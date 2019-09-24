@@ -1,5 +1,5 @@
 {
-  "name": "reuse-utility",
+  "name": "@velusgautam/reuse",
   "version": "2.1.0",
   "description": "reusable utility that can be reused",
   "main": "dist/main.js",
@@ -9,11 +9,11 @@
   },
   "author": "Velu S Gautam",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/velusgautam/reuse.git"
-  },
+  "repository": "git://github.com/velusgautam/reuse.git",
   "homepage": "https://github.com/velusgautam/reuse#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "memoize",
     "uniqueId",
@@ -33,8 +33,5 @@
   },
   "bugs": {
     "url": "https://github.com/velusgautam/reuse/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
