@@ -1,4 +1,4 @@
-[![Build Size](https://img.shields.io/bundlephobia/minzip/reuse-utility?color=%23328332&label=minified%20size)](https://www.npmjs.com/package/reuse-utility)
+[![Build Size](https://img.shields.io/bundlephobia/minzip/reuse-utility?color=%23328332&label=minified%20size)](https://www.npmjs.com/package/@velusgautam/reuse)
 
 # Reuse
 
