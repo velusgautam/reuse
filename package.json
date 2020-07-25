@@ -1,7 +1,7 @@
 {
   "name": "@velusgautam/reuse",
   "version": "3.0.6",
-  "description": "reusable utility that can be reused",
+  "description": "Reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
     "build": "rollup -c",
@@ -20,7 +20,9 @@
     "isEmpty",
     "minBy",
     "numberGrouping",
-    "numberFormatting"
+    "numberFormatting",
+    "isValidDate",
+    "getDateObject"
   ],
   "devDependencies": {
     "@babel/cli": "^7.10.5",
