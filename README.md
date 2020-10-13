@@ -1,4 +1,5 @@
 [![Build Size](https://img.shields.io/bundlephobia/minzip/@velusgautam/reuse?color=%23328332&label=minified%20size)](https://www.npmjs.com/package/@velusgautam/reuse)
+[![Views](https://views.hectane.com/velusgautam/reuse.svg)](https://views.hectane.com/)
 
 # Reuse
 
