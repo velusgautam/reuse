@@ -1,6 +1,6 @@
 {
   "name": "@velusgautam/reuse",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "description": "Reusable utility that can be reused",
   "main": "dist/main.js",
   "scripts": {
