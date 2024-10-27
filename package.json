@@ -1,6 +1,6 @@
 {
   "name": "@velusgautam/reuse",
-  "version": "3.0.9",
+  "version": "3.0.10",
   "description": "Reusable utility that can be reused",
   "main": "dist/main.cjs.js",
   "module": "dist/main.esm.js",
