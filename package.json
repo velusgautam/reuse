@@ -32,7 +32,7 @@
     "@babel/preset-env": "^7.26.0",
     "@rollup/plugin-terser": "^0.4.4",
     "eslint": "^9.13.0",
-    "rollup": "^2.79.2"
+    "rollup": "^4.24.3"
   },
   "bugs": {
     "url": "https://github.com/velusgautam/reuse/issues"
